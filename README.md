@@ -14,3 +14,6 @@ Just execute the PET2DOS.com executable or add it to your autoexec.bat
 
 Made with Fontraption 1.2
 https://github.com/viler-int10h/Fontraption/
+
+## todo
+Recreate the entire PETSCII graphic set 
